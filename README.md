@@ -6,3 +6,4 @@ data.
 * Projects worked on include developing an internally used python package [codon](https://github.com/codonlibrary/codonPython), developing CI/CD pipelines for data science projects, and modelling on large datasets.
 
 [LinkedIn](https://uk.linkedin.com/in/murdomoyse)
+[GitHub](https://github.com/murd0)
